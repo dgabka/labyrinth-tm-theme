@@ -2,11 +2,10 @@
 
 Discover Labyrinth, a serene color scheme inspired by hidden pathways and mossy landscapes. Let its gentle tones guide your creativity with calm elegance.
 
-Labyrinth provides four distinct variants with varying levels of contrast and color vibrancy to suit your preferences:
+Labyrinth provides three distinct variants with varying levels of contrast and color vibrancy to suit your preferences:
 
  - **Gloom**: The most contrasty variant, perfect for those who prefer sharp distinctions and vibrant colors.
  - **Dusk**: A balanced variant, offering a comfortable middle ground with moderate contrast and vibrancy.
- - **Shade**: A softer variant with reduced contrast, ideal for a more subdued and relaxed visual experience.
  - **Mist**: The least contrasty variant, featuring the most gentle and subtle tones for a calm and unobtrusive interface.
 
 Whether you're coding, designing, or simply exploring new aesthetics, Labyrinth adapts to your needs with its harmonious palette.
@@ -55,10 +54,6 @@ Whether you're coding, designing, or simply exploring new aesthetics, Labyrinth 
 **Labyrinth Dusk**
 
 ![bat with Labyrinth Dusk](assets/dusk.png)
-
-**Labyrinth Shade**
-
-![bat with Labyrinth Shade](assets/shade.png)
 
 **Labyrinth Mist**
 
